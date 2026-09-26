@@ -17,5 +17,5 @@ MLP in numpy - ✅ 18min
 
 CNN in numpy - ✅ 40min
 
-
+Diffusion - in progress
 
