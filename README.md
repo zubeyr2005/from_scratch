@@ -15,7 +15,7 @@ Current progress:
 
 MLP in numpy - ✅ 18min
 
-CNN in numpy - in progress
+CNN in numpy - ✅ 40min
 
 
 
